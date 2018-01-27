@@ -27,7 +27,7 @@
     "chai": "^3.5.0",
     "mocha": "^3.2.0",
     "natural": "~0.5.6",
-    "get-sentences-from-article": "^1.0.4",
+    "get-sentences-from-article": "https://github.com/ddallaire/jaccard-similarity-sentences/tarball/master",
     "lodash.isequal": "^4.5.0"
   },
   "devDependencies": {}
